@@ -5,3 +5,6 @@ Topics used in this project include:<br/>
 * Saving and Retrieving Instance State
 * Activity Lifecycle
 * SharedPreferences
+
+![alt text](https://github.com/RosarioAleCali/GolfScorecard/blob/master/Screenshot1.png)
+![alt text](https://github.com/RosarioAleCali/GolfScorecard/blob/master/Screenshot2.png)
